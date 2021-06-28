@@ -15,7 +15,7 @@ React has a few different kinds of components, but we’ll start with React.Comp
 * Game
 
 
-## The Square component renders a single
+
 
 ## Passing Data Through Props
 ***To get our feet wet, let’s try passing some data from our Board component to our Square component.***
