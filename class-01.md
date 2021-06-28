@@ -1,5 +1,19 @@
 ~~# reading-note-01~~
+## What is a component?
+***Components are independent and reusable bits of code. They serve the same purpose as***
 
+## What are the charactistics of a component?
+
+* One-way data binding. ...
+* React native. ...
+* Declarative UI. ...
+* Component-based architecture. ...
+* Speed and efficiency. ...
+* Flexibility.
+
+## What are the advantages of using component based architecture?
+* ***Ease of deployment − As new compatible versions become available, it is easier to replace existing versions with no impact on the other components or the system as a whole.***
+* ***Reduced cost − The use of third-party components allows you to spread the cost of development and maintenance.***
 ## what is react :
 ***React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
 React has a few different kinds of components, but we’ll start with React.Component subclasses:***
@@ -15,8 +29,13 @@ React has a few different kinds of components, but we’ll start with React.Comp
 * Game
 
 
+## What is props short for?
+ ***properties. It is a special keyword in React which is used for passing data from one component to another***
+# How are props used in React?
 
-
+***It is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It gives a way to pass data from one component to other components. It is similar to function arguments. Props are passed to the component in the same way as arguments passed in a function***
+## What is the flow of props?
+***data flows in one direction.***
 ## Passing Data Through Props
 ***To get our feet wet, let’s try passing some data from our Board component to our Square component.***
 
