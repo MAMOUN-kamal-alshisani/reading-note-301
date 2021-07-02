@@ -1,4 +1,28 @@
 # class-02.md
+## Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+***the render***
+
+## -What is the very first thing to happen in the lifecycle of React?
+***mounting***
+
+## Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates
+***1. constructor***
+***2. render***
+***3. ComponentDidMount***
+***4. react updates***
+***5. componentwillunmount***
+
+## What types of things can you pass in the props?
+***like arguments to a function , prooerties you want to pass between components***
+
+## What is the big difference between props and state?
+***props passes between components and do not change but states are handled outside of a component and they change***
+
+## When do we re-render our application?
+***when we change props or a state***
+
+## What are some examples of things that we could store in state?
+***if we want a button for example to change a certain function we assign a state for it***
 
 ## Rebuilt with React
 ***React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery.***
